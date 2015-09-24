@@ -1,7 +1,7 @@
 # ICSE-2014-semSMT
 example-repo
 This repository contains information related to the tool semSMT, International Conference on Software Engineering 2014. 
-The tool was originally presented in this paper.
+The tool was originally presented in [this paper](http://doi.acm.org/10.1145/2591062.2591072).
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 
@@ -12,4 +12,4 @@ In this repository, for semSMT you will find:
 
 :x: Source code (not available)
 
-This repository was constructed by [Craig Kimpel](https://github.com/cskimpel) under the supervision of Emerson Murphy-Hill. 
+This repository was constructed by [Craig Kimpel](https://github.com/cskimpel) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
