@@ -12,4 +12,4 @@ In this repository, for semSMT you will find:
 
 :x: Source code (not available)
 
-This repository was constructed by Craig Kimpel under the supervision of Emerson Murphy-Hill. 
+This repository was constructed by [Craig Kimpel](https://github.com/cskimpel) under the supervision of Emerson Murphy-Hill. 
