@@ -12,4 +12,6 @@ In this repository, for semSMT you will find:
 
 :x: Source code (not available)
 
+:x: Executable tool (not available)
+
 This repository was constructed by [Craig Kimpel](https://github.com/cskimpel) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
