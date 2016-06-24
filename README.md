@@ -4,7 +4,7 @@ This repository contains information related to the tool semSMT, International C
 The tool was originally presented in [this paper](http://doi.acm.org/10.1145/2591062.2591072).
 
 This repository *is not* the original repository for this tool.
-* (Original Project Webpage)[http://home.engineering.iastate.edu/~anhnt/Research/StaTran/]
+* [Original Project Webpage](http://home.engineering.iastate.edu/~anhnt/Research/StaTran/)
 
 In this repository, for semSMT you will find:
 * :x: Source code (not available)
